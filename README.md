@@ -1,2 +1,1 @@
-# dijkstra
-Dijkstra's routing algorithm
+# Dijkstra's Routing Algorithm
