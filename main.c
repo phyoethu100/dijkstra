@@ -1,5 +1,3 @@
-// Author: Phyoe Thu
-// Dijkstra lab
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -240,7 +238,7 @@ void dijkstra(int matrix[8][8], int vertice, int source_node, int destination_no
                         break;
                 }
                         
-                printf(" <- %c", d);
+                printf("%c -> ", d);
        
             } while(j != source_node);
     
